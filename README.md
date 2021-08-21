@@ -10,7 +10,10 @@ HSS package -- for hierarchically semiseparable matrices
 - HSS ULV factorization
 - HSS ULV solution
 
-*Provided as is. No warranty. No liability.*
+*Provided as is. No warranty whatsoever. No liability whatsoever.*
+
+# Usage
+- Run test.m
 
 # Author
 Any questions or feedbacks are welcome!
@@ -22,5 +25,3 @@ Any questions or feedbacks are welcome!
 - J. Xia, S. Chandrasekaran, M. Gu, X. S. Li, *Superfast multifrontal method for large structured linear systems of equations*,\
 SIAM J. Matrix Anal. Appl., 31 (2009), pp. 1382-1411.
 
-# Usage
-- Run test.m
