@@ -18,7 +18,7 @@ HSS package -- for hierarchically semiseparable matrices
 # Author
 Any questions or feedbacks are welcome!
 - Jianlin Xia, xiaj  -at-  purdue.edu
-- 
+ 
 # References
 - J. Xia, S. Chandrasekaran, M. Gu, X. S. Li, *Fast algorithms for hierarchically semiseparable matrices*,\
   Numer. Linear Algebra Appl., 17 (2010), pp. 953-976.
