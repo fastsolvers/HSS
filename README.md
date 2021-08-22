@@ -1,7 +1,7 @@
 # HSS
 HSS package -- for hierarchically semiseparable matrices
 
-- HSS approximations for matrices such as
+- HSS approximations for matrices such as<br>
  Banded matrices\
  Toeplitz matrices (in Fourier space)\
  Some discretized integral equations\
